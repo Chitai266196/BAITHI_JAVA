@@ -18,7 +18,7 @@
 ### 2.1) Chức năng thông báo điểm số mà bạn đã đạt được.Khi hết thời gian, game sẽ kết thúc, đồng thời sẽ in ra số điểm mà bạn đã đạt được.
 ![Imgur](http://i.imgur.com/KGqS5Tt.jpg)
 
-### 2.2)Chức năng tiến hành kiểm tra thị lực của bạn thông qua số điểm mà bạn đã đạt được
+### 2.2) Chức năng tiến hành kiểm tra thị lực của bạn thông qua số điểm mà bạn đã đạt được
 
 ![Imgur](http://i.imgur.com/XOUXEzC.jpg)
 
@@ -43,5 +43,5 @@
 ### 2.4) Chức năng thoát
 - Dùng để muốn thoát game.
 
-###2.5) Hiện thị tên tác giả
+### 2.5) Hiện thị tên tác giả
 - Dùng để biết thêm thông tin về tác giả của sản phẩm trong trường hợp cần liên hệ.
