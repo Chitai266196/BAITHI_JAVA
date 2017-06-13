@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kevin.game_kiem_tra_mat.Chuandoan">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:weightSum="10"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_weight="2"
+            android:layout_height="0dp">
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_weight="3"
+            android:layout_height="0dp">
+            <ImageView
+                android:layout_margin="20dp"
+                android:adjustViewBounds="true"
+                android:id="@+id/imageviewconvat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="20dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_weight="4"
+            android:layout_height="0dp">
+            <TextView
+                android:text="Mô tả con vật"
+                android:textSize="20dp"
+                android:textColor="#FF04DE"
+                android:id="@+id/textviewchuandoan"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+           <LinearLayout
+               android:weightSum="3"
+               android:orientation="horizontal"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent">
+              <Button
+                  android:layout_margin="3dp"
+                  android:textColor="#fafafa"
+                  android:background="#4CAF50"
+                  android:text="Tác giả"
+                  android:id="@+id/Buttontacgia"
+                  android:layout_weight="1"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent" />
+               <Button
+                   android:layout_margin="3dp"
+                   android:textColor="#fafafa"
+                   android:background="#4CAF50"
+                   android:text="Chơi lại"
+                   android:id="@+id/Buttonchoilai"
+                   android:layout_weight="1"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent" />
+               <Button
+                   android:layout_margin="3dp"
+                   android:textColor="#fafafa"
+                   android:background="#4CAF50"
+                   android:text="Thoát"
+                   android:id="@+id/Buttonthoat"
+                   android:layout_weight="1"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent" />
+           </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+
