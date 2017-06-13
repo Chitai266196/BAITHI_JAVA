@@ -2,6 +2,7 @@
 # Họ tên: Mai Chí Tài
 # Mã số sinh viên: 56132333
 # Lớp: 56TH2
+# Giáo viên hướng dẫn
 # Tên sản phẩm: Game kiểm tra thị lực
 ## 1. Giới thiệu về sản phẩm
 - Đây là một phần mềm, một app, một game đã quá quen thuộc với hầu hết chúng ta.Chỉ cần bỏ ra một ít thời gian để làm kiểm tra, chúng ta có thể xác định được độ nhanh nhạy, cũng như độ tinh tường của đôi mắt. Game này không chỉ đơn giản là một game mang tính giải trí, mà còn mang tính y học. Bằng việc chọn lựa những màu sắc khác với những màu còn lại, chúng ta sẽ đánh giá được thị lực của mình.
@@ -27,7 +28,10 @@
 ![Imgur](http://i.imgur.com/3bqZNKj.jpg)
 
 - Đây là thông báo đánh giá thị lực khi điểm số của bạn dưới 40.
-- Và nếu chúng ta có điểm số lớn hơn 40, chúng ta sẽ được đánh giá thị lực tốt hơn.
+
+![Imgur](http://i.imgur.com/g1lRw1X.jpg)
+
+-Đây là thông báo đánh giá thị lực khi điểm số của bạn trên 40.
 
 ### 2.3) Chức năng chơi lại
 
@@ -45,3 +49,5 @@
 
 ### 2.5) Hiện thị tên tác giả
 - Dùng để biết thêm thông tin về tác giả của sản phẩm trong trường hợp cần liên hệ.
+
+![Imgur](http://i.imgur.com/U3oa4o6.jpg)
