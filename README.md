@@ -45,7 +45,7 @@
 ![Imgur](http://i.imgur.com/XOUXEzC.jpg)
 
 ### 2.4) Chức năng thoát
-- Dùng để muốn thoát game.
+- Dùng để thoát game.
 
 ### 2.5) Hiện thị tên tác giả
 - Dùng để biết thêm thông tin về tác giả của sản phẩm trong trường hợp cần liên hệ.
